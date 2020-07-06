@@ -26,7 +26,7 @@ const mapDispatchToProps = (dispatch) =>{
 }
 
 class App extends Component{
-  /*this fucntion are now being returned as part of the props from onRequestRobots 
+  /*this fucntions are now being returned as part of the props from onRequestRobots 
   constructor(){
     super()
     this.state ={
